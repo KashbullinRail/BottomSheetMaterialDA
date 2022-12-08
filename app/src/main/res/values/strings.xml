@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BottomSheetMaterialDA</string>
+    <string name="bottomsheetmaterial">BottomSheetMaterial</string>
 </resources>
